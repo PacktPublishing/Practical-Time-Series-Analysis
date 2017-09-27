@@ -18,7 +18,7 @@ import seaborn as sns
 
 You will need the Anaconda Python Distribution to run the examples in this book and write
 your own Python programs for time series analysis. This is freely downloadable from
-https://www. continuum. io/downloads.
+https://www.continuum.io/downloads.
 The code samples of this book have been written using the Jupyter Notebook development
 environment. To run the Jupyter Notebooks, you need to install Anaconda Python
 Distribution, which has the Python language essentials, interpreter, packages used to
